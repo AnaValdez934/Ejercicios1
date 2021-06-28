@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Denunciar este resultado_n3VNCb</name>
+   <tag></tag>
+   <elementGuidId>be24a63d-4825-4eb2-a01e-f6bbc7552e7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Sva75c']/div/div/div[3]/div[2]/c-wiz/div/div/div/div[2]/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tvh9oe.BIB1wf > c-wiz.Y6heUd > div.nIWXKc > div.OUZ5W > div.zjoqD > div.qdnLaf.isv-id > div.v4dQwb > a.eHAdSb > img.n3VNCb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://verdecora.es/blog/wp-content/uploads/2018/07/cuidados-calendula.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Cuidados de la Caléndula, la flor medicinal | Blog Verdecora</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>HiaYvf</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsaction</name>
+      <type>Main</type>
+      <value>load:XAeZkd;</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>n3VNCb</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-noaft</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Sva75c&quot;)/div[@class=&quot;A8mJGd&quot;]/div[@class=&quot;dFMRD&quot;]/div[@class=&quot;pxAole&quot;]/div[@class=&quot;tvh9oe BIB1wf&quot;]/c-wiz[@class=&quot;Y6heUd&quot;]/div[@class=&quot;nIWXKc&quot;]/div[@class=&quot;OUZ5W&quot;]/div[@class=&quot;zjoqD&quot;]/div[@class=&quot;qdnLaf isv-id&quot;]/div[@class=&quot;v4dQwb&quot;]/a[@class=&quot;eHAdSb&quot;]/img[@class=&quot;n3VNCb&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Sva75c']/div/div/div[3]/div[2]/c-wiz/div/div/div/div[2]/div/a/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Cuidados de la Caléndula, la flor medicinal | Blog Verdecora'])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/c-wiz/div/div/div/div[2]/div/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>

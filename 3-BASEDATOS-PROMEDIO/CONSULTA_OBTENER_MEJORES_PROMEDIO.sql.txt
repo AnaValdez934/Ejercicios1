@@ -1,0 +1,15 @@
+SELECT
+   t1.*
+FROM
+(
+   SELECT
+      c.numero_control_id,a.nombre,a.primer_apellido,a.segundo_apellido,c.promedio,
+    ROW_NUMBER()OVER (
+        ORDER BY promedio DESC
+    ) orden_promedio
+   FROM 
+      alumnos a
+      INNER JOIN calificaciones c ON a.numero_control = c.numero_control_id
+   WHERE
+      promedio  order by promedio desc limit 10
+) t1

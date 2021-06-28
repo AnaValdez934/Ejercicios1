@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Búsqueda con el botón &quot;Buscar con Google&quot;</description>
+   <name>Buscar con Google</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>209a6382-5f27-46f9-95b8-7bfb3cd6840b</testCaseGuid>
+</TestCaseEntity>

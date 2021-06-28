@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Las pruebas automatizadas tienen como _dc94f6</name>
+   <tag></tag>
+   <elementGuidId>ee47183c-5ef6-4f21-ae35-4175c5981eaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rso']/div/div/div/div/div/div/div[2]/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.hgKElc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hgKElc</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Las pruebas automatizadas tienen como objetivo detectar fallas en el software evitando que una persona tenga que ejecutar las pruebas manualmente. En este caso, el experto en testing genera un caso a probar utilizando una herramienta para que luego la misma se realice automáticamente.</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rso&quot;)/div[@class=&quot;ULSxyf&quot;]/div[@class=&quot;g mnr-c g-blk&quot;]/div[@class=&quot;kp-blk c2xzTb&quot;]/div[@class=&quot;xpdopen&quot;]/div[@class=&quot;ifM9O&quot;]/div[1]/div[@class=&quot;wDYxhc&quot;]/div[@class=&quot;LGOjhe&quot;]/span[@class=&quot;ILfuVd&quot;]/span[@class=&quot;hgKElc&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rso']/div/div/div/div/div/div/div[2]/div/span/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fragmento destacado de la Web'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resultados de búsqueda'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Las']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/span</value>
+   </webElementXpaths>
+</WebElementEntity>
